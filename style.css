@@ -399,7 +399,7 @@ a{
 }
 .explore3{
   grid-area: explore3;
-  background-image: url(/images/explore-image-01.jpg);
+  background-image: url(./images/explore-image-01.jpg);
   background-size:cover;
   align-items: center;
   flex-direction: column;
@@ -409,7 +409,7 @@ a{
 }
 .explore4{
   grid-area: explore4;
-  background-image: url(/images/explore-image-02.jpg);
+  background-image: url(./images/explore-image-02.jpg);
   background-size:cover;
   align-items: center;
   flex-direction: column;
@@ -562,7 +562,7 @@ form{
 .envoyer{
   border-style: inherit;
   background-size: cover; 
-  background-image: url(/images/envoie.jpg);
+  background-image: url(./images/envoie.jpg);
   width: 8%;
 }
 
